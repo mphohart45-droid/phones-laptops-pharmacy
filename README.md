@@ -1,33 +1,19 @@
-# phones-laptops-pharmacy
-Website for Phones &amp; Laptops Pharmacy — phone &amp; laptop repairs, password removal, iPhone unlock, screen replacement, and water damage repair.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Phones & Laptops Pharmacy</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <header>
-    <img src="assets/logo.svg" alt="Logo" />
-    <nav>
-      <a href="#services">Services</a>
-      <a href="#order">Book Repair</a>
-    </nav>
-  </header>
+# Phones & Laptops Pharmacy Website
 
-  <main>
-    <h1>Fast & Reliable Phone & Laptop Repairs</h1>
-    <p>We fix phones, laptops, and iPhones — from password removal to water damage repair.</p>
-    <a href="https://wa.me/27641305519?text=Hi!%20I%20need%20a%20repair">Chat on WhatsApp</a>
-  </main>
+Official website for **Phones & Laptops Pharmacy** — phone & laptop repairs, password removal, iPhone unlock, screen replacement, and water damage repair.
 
-  <footer>
-    <p>© <span id="year"></span> Phones & Laptops Pharmacy | WhatsApp: 064 130 5519</p>
-    <p>Current Time (South Africa): <span id="localTime"></span></p>
-  </footer>
+## 🌍 Live Hosting Options
 
-  <script src="script.js"></script>
-</body>
-</html>
+- **Netlify**: Drag & drop this folder into [Netlify](https://app.netlify.com).  
+- **GitHub Pages**: Upload files into a GitHub repository and enable Pages in repo settings.
+
+## 🛠 Editing Guide
+
+- **index.html** → change text and content  
+- **style.css** → change colors, fonts, design  
+- **script.js** → change WhatsApp number or timezone logic  
+- **assets/logo.svg** → replace with your own logo  
+
+## 📞 Contact
+
+WhatsApp: +27 64 130 5519
